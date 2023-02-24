@@ -3,6 +3,8 @@
 
 PM2.5 and PM10 time series analysis plots and component plots for 34 Chilean cities between 2013 and 2021
 
+The red line represents the latest WHO air quality daily standard of PM2.5 concentrations set at 15 µg/m3.
+
 
 
 
